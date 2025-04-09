@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+}
+
+.header{
+    background-color: grey;
+    display: block;
+    height: 15vh;
+}
+
+.profile-p{
+    background-color: lightblue;
+    position: relative;
+    height: 10vh;
+    width: 10vh;
+    margin-left: 4%;
+    top: 2.5vh;
+}
+
+.wrapper{
+    background-color: #d8d8d8;
+    display: block;
+    position: relative;
+    height: 83vh;
+    width: 80%;
+    left: 10%;
+}
+
+.content-manager{
+    background-color: rgb(112, 112, 112);
+    position: absolute;
+    height: 100%;
+    width: 15%;
+    right: 0;
+}
