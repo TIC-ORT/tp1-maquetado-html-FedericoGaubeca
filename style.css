@@ -47,7 +47,6 @@ body{
     background-color: rgb(184, 248, 250);
     padding: 40px;
     border-radius: 5px;
-    cursor: pointer;
 }
 
 .content-main{
@@ -68,8 +67,13 @@ body{
 }
 
 .content{
-    background-color: rgb(249, 196, 135);
+    background-color: rgb(220, 193, 255);
     padding: 98px;
     border-radius: 5px;
-    cursor: pointer;
+}
+
+.thumbnail{
+    background-color: aquamarine;
+    width: 20vw;
+    height: 20vh;
 }
